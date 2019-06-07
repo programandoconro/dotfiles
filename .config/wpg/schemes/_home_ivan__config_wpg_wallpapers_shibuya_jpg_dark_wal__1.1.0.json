@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/shibuya.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0f1e",
+        "foreground": "#b0ffff",
+        "cursor": "#b0ffff"
+    },
+    "colors": {
+        "color0": "#0e0f1e",
+        "color1": "#2D328D",
+        "color2": "#063589",
+        "color3": "#F7B422",
+        "color4": "#0A51A1",
+        "color5": "#A353A7",
+        "color6": "#4550A9",
+        "color7": "#85c4e6",
+        "color8": "#1d1f40",
+        "color9": "#2e36c3",
+        "color10": "#0142b8",
+        "color11": "#fff019",
+        "color12": "#0168dc",
+        "color13": "#e25be9",
+        "color14": "#4a5beb",
+        "color15": "#b0ffff"
+    }
+}

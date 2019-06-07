@@ -1,0 +1,43 @@
+separator_block_width=22
+color=#f6e2c7
+
+[mediaplayer]
+command=$HOME/.pscripts/mediaplayer
+instance=spotify
+interval=5
+signal=10
+
+[weather]
+command=$HOME/.pscripts/weather.sh
+interval=3600
+
+[battery]
+align=center
+command=/home/ivan/.pscripts/battery.sh
+interval=60
+
+[hddspace]
+label=💾 
+command=df -h | grep -w / | awk '{print $3 "/" $2}'
+interval=600
+
+[pavolume]
+min_width=150
+command=/home/ivan/.pscripts/pavolume.sh
+interval=once
+signal=11
+
+[date]
+label=📅
+command=date +" %a %d de %b, %Y"
+interval=3600
+
+[time]
+label=🕘
+command=date +" %R"
+interval=5
+
+[wifi]
+command=$HOME/.pscripts/wifi.sh
+interval=60
+

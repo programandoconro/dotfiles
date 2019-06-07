@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/hour-of-tranquility.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080C18",
+        "foreground": "#d7ffff",
+        "cursor": "#d7ffff"
+    },
+    "colors": {
+        "color0": "#080C18",
+        "color1": "#593495",
+        "color2": "#325399",
+        "color3": "#5956A1",
+        "color4": "#4D51B0",
+        "color5": "#AD48BD",
+        "color6": "#5CB5BD",
+        "color7": "#a7c7e4",
+        "color8": "#131e3e",
+        "color9": "#7036ce",
+        "color10": "#3367d4",
+        "color11": "#645fe1",
+        "color12": "#535af5",
+        "color13": "#ed4cff",
+        "color14": "#65faff",
+        "color15": "#d7ffff"
+    }
+}

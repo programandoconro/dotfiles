@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/burning-forest.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0925",
+        "foreground": "#eef2ff",
+        "cursor": "#eef2ff"
+    },
+    "colors": {
+        "color0": "#0E0925",
+        "color1": "#9A7093",
+        "color2": "#9D8CAB",
+        "color3": "#DA9FA2",
+        "color4": "#625F95",
+        "color5": "#D3768D",
+        "color6": "#7B85AF",
+        "color7": "#c3c6de",
+        "color8": "#1c124d",
+        "color9": "#d980ca",
+        "color10": "#cea1f2",
+        "color11": "#ffb6bc",
+        "color12": "#716bd1",
+        "color13": "#ff84ac",
+        "color14": "#8ca1f6",
+        "color15": "#eef2ff"
+    }
+}

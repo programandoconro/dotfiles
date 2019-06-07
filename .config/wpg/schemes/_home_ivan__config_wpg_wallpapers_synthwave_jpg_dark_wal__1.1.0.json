@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/synthwave.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0208",
+        "foreground": "#ffffe4",
+        "cursor": "#ffffe4"
+    },
+    "colors": {
+        "color0": "#0c0208",
+        "color1": "#EA645F",
+        "color2": "#FEF464",
+        "color3": "#F8D13C",
+        "color4": "#5B1A91",
+        "color5": "#C844C7",
+        "color6": "#5FACDB",
+        "color7": "#f6e2c7",
+        "color8": "#390625",
+        "color9": "#ff6e66",
+        "color10": "#ffff6a",
+        "color11": "#ffff39",
+        "color12": "#7716c7",
+        "color13": "#ff46ff",
+        "color14": "#67e4ff",
+        "color15": "#ffffe4"
+    }
+}

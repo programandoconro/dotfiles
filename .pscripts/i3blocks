@@ -1,0 +1,18 @@
+[date]
+min_width=170
+align=center
+command=date +"%a %d de %b, %Y"
+color=#d9ed5b
+background=#a72d95
+interval=3600
+
+[time]
+label=
+min_width=63
+align=center
+command=date +"%R"
+color=#162045
+background=#d9ed5b
+interval=5
+
+

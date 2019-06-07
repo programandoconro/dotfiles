@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/mandalas.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1d27",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#1c1d27",
+        "color1": "#F2A75D",
+        "color2": "#9CA26B",
+        "color3": "#D8CC6D",
+        "color4": "#58A6A8",
+        "color5": "#B4C878",
+        "color6": "#5EABAE",
+        "color7": "#cfd1c8",
+        "color8": "#303244",
+        "color9": "#ffd863",
+        "color10": "#d8e479",
+        "color11": "#ffff78",
+        "color12": "#61e7eb",
+        "color13": "#f4ff87",
+        "color14": "#68eef3",
+        "color15": "#fffff9"
+    }
+}

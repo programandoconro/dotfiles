@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/japan.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101010",
+        "foreground": "#02acff",
+        "cursor": "#02acff"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#BA2F30",
+        "color2": "#024E6C",
+        "color3": "#930A65",
+        "color4": "#4337A3",
+        "color5": "#9924A4",
+        "color6": "#7fcbd8",
+        "color7": "#026198",
+        "color8": "#292929",
+        "color9": "#ff2d2f",
+        "color10": "#01668e",
+        "color11": "#c90286",
+        "color12": "#4c39e2",
+        "color13": "#d121e2",
+        "color14": "#8effff",
+        "color15": "#02acff"
+    }
+}

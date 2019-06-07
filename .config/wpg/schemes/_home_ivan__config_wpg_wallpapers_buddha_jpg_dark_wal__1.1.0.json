@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/buddha.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c111c",
+        "foreground": "#f8edff",
+        "cursor": "#f8edff"
+    },
+    "colors": {
+        "color0": "#0c111c",
+        "color1": "#966AA3",
+        "color2": "#A28CB0",
+        "color3": "#E699A6",
+        "color4": "#6564A6",
+        "color5": "#B773B1",
+        "color6": "#6696C7",
+        "color7": "#c9c0dd",
+        "color8": "#1a263f",
+        "color9": "#cc78e5",
+        "color10": "#d7a1f9",
+        "color11": "#ffaec7",
+        "color12": "#7270e9",
+        "color13": "#ff82f6",
+        "color14": "#71c2ff",
+        "color15": "#f8edff"
+    }
+}

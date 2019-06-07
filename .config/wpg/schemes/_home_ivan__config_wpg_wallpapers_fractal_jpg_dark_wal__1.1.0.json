@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/fractal.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020018",
+        "foreground": "#f9ddff",
+        "cursor": "#f9ddff"
+    },
+    "colors": {
+        "color0": "#020018",
+        "color1": "#BF2F47",
+        "color2": "#A25A5A",
+        "color3": "#CCA06C",
+        "color4": "#6F4C69",
+        "color5": "#9B2151",
+        "color6": "#6A1853",
+        "color7": "#bba6bf",
+        "color8": "#060149",
+        "color9": "#ff2d51",
+        "color10": "#e26464",
+        "color11": "#ffd178",
+        "color12": "#9c5690",
+        "color13": "#d51e66",
+        "color14": "#92166f",
+        "color15": "#f9ddff"
+    }
+}

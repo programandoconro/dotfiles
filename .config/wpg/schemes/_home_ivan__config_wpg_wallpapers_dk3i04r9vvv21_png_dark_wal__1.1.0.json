@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/dk3i04r9vvv21.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06090F",
+        "foreground": "#c7e3f2",
+        "cursor": "#c7e3f2"
+    },
+    "colors": {
+        "color0": "#06090F",
+        "color1": "#0652A2",
+        "color2": "#1471BC",
+        "color3": "#22A2E3",
+        "color4": "#4DB9EE",
+        "color5": "#6BC7F6",
+        "color6": "#C4C3A8",
+        "color7": "#c7e3f2",
+        "color8": "#8b9ea9",
+        "color9": "#0652A2",
+        "color10": "#1471BC",
+        "color11": "#22A2E3",
+        "color12": "#4DB9EE",
+        "color13": "#6BC7F6",
+        "color14": "#C4C3A8",
+        "color15": "#c7e3f2"
+    }
+}

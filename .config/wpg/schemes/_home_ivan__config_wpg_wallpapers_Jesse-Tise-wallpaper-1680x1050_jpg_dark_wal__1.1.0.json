@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/Jesse-Tise-wallpaper-1680x1050.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#162045",
+        "foreground": "#ffffe6",
+        "cursor": "#ffffe6"
+    },
+    "colors": {
+        "color0": "#162045",
+        "color1": "#A72D95",
+        "color2": "#2CB6AC",
+        "color3": "#D9ED5B",
+        "color4": "#A7E5A3",
+        "color5": "#ED038D",
+        "color6": "#03DEE1",
+        "color7": "#dde8bf",
+        "color8": "#21316b",
+        "color9": "#e62ccb",
+        "color10": "#2afbec",
+        "color11": "#ffff60",
+        "color12": "#c2ffba",
+        "color13": "#ff01b7",
+        "color14": "#01ffff",
+        "color15": "#ffffe6"
+    }
+}

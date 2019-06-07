@@ -1,0 +1,73 @@
+# i3status configuration file.
+# see "man i3status" for documentation.
+
+# It is important that this file is edited as UTF-8.
+# The following line should contain a sharp s:
+# ß
+# If the above line is not correctly displayed, fix your editor first!
+
+general {
+	output_format = "i3bar"
+  	colors = true
+  	color_good = "#E479FF"
+  	color_degraded = "#EBFF6C"
+  	color_bad = "#FF395A"
+	interval = 5
+}
+
+order += "cpu_temperature 0"
+order += "disk /"
+order += "battery all"
+order += "tztime hour"
+order += "tztime date"
+order += "volume master"
+order += "wireless _first_"
+
+wireless _first_ {
+        format_up = "Wi-Fi:%essid"
+        format_down = "Wi-Fi:Desconectado"
+}
+
+volume master {
+	min_width = 45
+	align = "center"
+        format = "%volume"
+        format_muted = "silenciado(%volume)"
+        device = "pulse:alsa_output.pci-0000_00_1f.3.analog-stereo"
+}
+
+battery all {
+	path = /sys/class/power_supply/BAT%d/uevent
+	last_full_capacity = true
+	min_width = 60
+	align = "center"
+        format = "%status%percentage"
+	status_chr = ""
+	status_bat = ""
+	status_full = ""
+	threshold_type = percentage
+	low_threshold = 10
+}
+
+tztime hour {
+	min_width = 50
+	align = "center"
+        format = "%H:%M" 
+}
+
+tztime date {
+	min_width = 83
+	align = "center"
+	format = "%d/%m/%Y"
+}
+
+disk "/" {
+	min_width = 75
+	align = "center"
+        format = "%avail"
+}
+
+cpu_temperature 0 {
+	min_width = 40
+	path = /sys/devices/platform/coretemp.0/hwmon/hwmon2/temp1_input
+	format = "%degrees°C"

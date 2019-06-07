@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/fondo-chido-1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0708",
+        "foreground": "#fffffa",
+        "cursor": "#fffffa"
+    },
+    "colors": {
+        "color0": "#0c0708",
+        "color1": "#AE5137",
+        "color2": "#4CAE4A",
+        "color3": "#D0B246",
+        "color4": "#384FBE",
+        "color5": "#AB5FA5",
+        "color6": "#3AB8DB",
+        "color7": "#d6d9d2",
+        "color8": "#2c181c",
+        "color9": "#f16038",
+        "color10": "#53f250",
+        "color11": "#fff148",
+        "color12": "#385cff",
+        "color13": "#ef6ae5",
+        "color14": "#39f9ff",
+        "color15": "#fffffa"
+    }
+}

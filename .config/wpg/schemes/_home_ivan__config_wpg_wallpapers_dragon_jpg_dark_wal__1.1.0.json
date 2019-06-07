@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/dragon.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#311113",
+        "foreground": "#c0ffff",
+        "cursor": "#c0ffff"
+    },
+    "colors": {
+        "color0": "#311113",
+        "color1": "#F19A72",
+        "color2": "#53A576",
+        "color3": "#CCBC71",
+        "color4": "#107487",
+        "color5": "#587881",
+        "color6": "#317980",
+        "color7": "#91dedb",
+        "color8": "#561d21",
+        "color9": "#ffbf7d",
+        "color10": "#5be697",
+        "color11": "#ffff7e",
+        "color12": "#0a9db9",
+        "color13": "#64a3b5",
+        "color14": "#34a6b1",
+        "color15": "#c0ffff"
+    }
+}

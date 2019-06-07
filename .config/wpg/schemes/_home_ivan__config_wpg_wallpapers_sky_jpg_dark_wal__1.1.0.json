@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/sky.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18191f",
+        "foreground": "#ffefec",
+        "cursor": "#ffefec"
+    },
+    "colors": {
+        "color0": "#18191f",
+        "color1": "#A17A88",
+        "color2": "#AB929C",
+        "color3": "#E8916C",
+        "color4": "#707489",
+        "color5": "#C67D82",
+        "color6": "#7A8194",
+        "color7": "#e0c4c2",
+        "color8": "#2d2f3b",
+        "color9": "#e38cab",
+        "color10": "#f2a9c6",
+        "color11": "#ffb376",
+        "color12": "#818bc2",
+        "color13": "#ff8d96",
+        "color14": "#8d9fd1",
+        "color15": "#ffefec"
+    }
+}

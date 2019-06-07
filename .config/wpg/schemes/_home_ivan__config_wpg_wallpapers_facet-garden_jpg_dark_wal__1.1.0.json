@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/facet-garden.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#01010B",
+        "foreground": "#ffe8fc",
+        "cursor": "#ffe8fc"
+    },
+    "colors": {
+        "color0": "#01010B",
+        "color1": "#BF3251",
+        "color2": "#6C6367",
+        "color3": "#A6897A",
+        "color4": "#6A6F89",
+        "color5": "#F65FA0",
+        "color6": "#E267A8",
+        "color7": "#e9c3d4",
+        "color8": "#01013d",
+        "color9": "#ff3160",
+        "color10": "#997384",
+        "color11": "#eaac8b",
+        "color12": "#7a85c1",
+        "color13": "#ff65cc",
+        "color14": "#ff70db",
+        "color15": "#ffe8fc"
+    }
+}

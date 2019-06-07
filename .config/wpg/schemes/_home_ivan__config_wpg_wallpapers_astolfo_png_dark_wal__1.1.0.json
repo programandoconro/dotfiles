@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/astolfo.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#22282e",
+        "foreground": "#efffff",
+        "cursor": "#efffff"
+    },
+    "colors": {
+        "color0": "#22282e",
+        "color1": "#95ADD5",
+        "color2": "#728AB2",
+        "color3": "#DEB6A9",
+        "color4": "#6E96D8",
+        "color5": "#949CAD",
+        "color6": "#559ABE",
+        "color7": "#cddbe7",
+        "color8": "#37404a",
+        "color9": "#aadbff",
+        "color10": "#81aefa",
+        "color11": "#ffdfc2",
+        "color12": "#79bdff",
+        "color13": "#abc3f5",
+        "color14": "#5ccdff",
+        "color15": "#efffff"
+    }
+}

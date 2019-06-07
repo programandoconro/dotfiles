@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/lsd.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b0d24",
+        "foreground": "#d0ffff",
+        "cursor": "#d0ffff"
+    },
+    "colors": {
+        "color0": "#1b0d24",
+        "color1": "#DB6798",
+        "color2": "#A45C95",
+        "color3": "#BA9C73",
+        "color4": "#3356A1",
+        "color5": "#B23EA7",
+        "color6": "#0B94E5",
+        "color7": "#9fcfe2",
+        "color8": "#361949",
+        "color9": "#ff70c2",
+        "color10": "#e566cb",
+        "color11": "#ffcd81",
+        "color12": "#346adf",
+        "color13": "#f740e5",
+        "color14": "#01c3ff",
+        "color15": "#d0ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/retrowave.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E192E",
+        "foreground": "#ffffca",
+        "cursor": "#ffffca"
+    },
+    "colors": {
+        "color0": "#0E192E",
+        "color1": "#DA2C54",
+        "color2": "#52506A",
+        "color3": "#A7364E",
+        "color4": "#365565",
+        "color5": "#F15B5D",
+        "color6": "#9A1F5F",
+        "color7": "#f5cea2",
+        "color8": "#192d54",
+        "color9": "#ff2863",
+        "color10": "#605b95",
+        "color11": "#e7375d",
+        "color12": "#3c718d",
+        "color13": "#ff6063",
+        "color14": "#d41c7b",
+        "color15": "#ffffca"
+    }
+}

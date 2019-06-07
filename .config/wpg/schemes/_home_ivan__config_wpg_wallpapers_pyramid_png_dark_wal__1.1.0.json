@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/pyramid.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0814",
+        "foreground": "#ffeeff",
+        "cursor": "#ffeeff"
+    },
+    "colors": {
+        "color0": "#0f0814",
+        "color1": "#B84AA9",
+        "color2": "#AB51A0",
+        "color3": "#A4AE81",
+        "color4": "#9B5DCD",
+        "color5": "#D969D3",
+        "color6": "#B2B9C8",
+        "color7": "#e2c7e1",
+        "color8": "#291538",
+        "color9": "#ff4fe7",
+        "color10": "#ee58dc",
+        "color11": "#e0f594",
+        "color12": "#cb65ff",
+        "color13": "#ff73ff",
+        "color14": "#cee7ff",
+        "color15": "#ffeeff"
+    }
+}

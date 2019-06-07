@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ivan/.config/wpg/wallpapers/streetlights.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110c0d",
+        "foreground": "#d2feff",
+        "cursor": "#d2feff"
+    },
+    "colors": {
+        "color0": "#110c0d",
+        "color1": "#A54724",
+        "color2": "#484A5C",
+        "color3": "#C39D53",
+        "color4": "#1757A4",
+        "color5": "#A142A3",
+        "color6": "#2C59AD",
+        "color7": "#a0c2df",
+        "color8": "#2e2023",
+        "color9": "#e35621",
+        "color10": "#535782",
+        "color11": "#ffd159",
+        "color12": "#116fe1",
+        "color13": "#df46e2",
+        "color14": "#2b6fef",
+        "color15": "#d2feff"
+    }
+}
