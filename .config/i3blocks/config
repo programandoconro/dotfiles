@@ -33,8 +33,7 @@ command=date +" %a %d de %b, %Y"
 interval=3600
 
 [time]
-label=🕘
-command=date +" %R"
+command=$HOME/.pscripts/clock.sh
 interval=5
 
 [wifi]

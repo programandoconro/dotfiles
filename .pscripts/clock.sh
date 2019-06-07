@@ -1,7 +1,7 @@
 #!/bin/sh
 
-HOUR=$(time "+%H")
-MINUTES=$(time "+%M")
+HOUR=$(date "+%H")
+MINUTES=$(date "+%M")
 
 case $HOUR in
 	"01"|"13")
@@ -41,4 +41,6 @@ case $HOUR in
 		CLOCK="🕛"
 		;;
 esac
+
+printf "%s %s:%s\n\n" "$CLOCK" "$HOUR" "$MINUTES"
 
