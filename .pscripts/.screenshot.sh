@@ -1,4 +1,3 @@
 #!/bin/sh
-sleep 3
-flameshot gui
 
+flameshot gui -d 3000 #toma una captura de pantalla después de esperar 3000ms
